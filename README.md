@@ -6,17 +6,11 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/RoxBlox3/count.svg?"  />
+<img src="https://github.com/user-attachments/assets/7ee78adb-312d-4a5d-8668-fd269843c0ba">
 </div>
 
-###
 
-<div align="left">
-</div>
-
-###
 <!--
 **RoxBlox3/RoxBlox3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
